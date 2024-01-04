@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Ovo&family=Quattrocento+Sans&display=swap');
+
+*{
+box-sizing: border-box;
+}
+
+
+body {
+font-family: 'Ovo', serif;
+font-family: 'Quattrocento Sans', sans-serif;
+}
+
+
+li {
+    border-top: 2px black solid;
+    list-style-type: none
+}
+
+.listcontainer{
+    background-color: cyan;
+    justify-content: space-around;
+   display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin: 15px;
+    padding: 30px;
+    
+}
+
+.listcard{
+    background-color: red;
+    border: solid 2px blue;
+    margin: 15px
+
+
+}
