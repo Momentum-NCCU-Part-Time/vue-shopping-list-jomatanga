@@ -1,0 +1,86 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "Sample shopping list",
+      "items": [
+        {
+          "id": 1,
+          "itemName": "toilet paper",
+          "purchased": false
+        }
+      ],
+      "updatedAt": "2018-01-01T00:00:00.000Z"
+    },
+    {
+      "title": "Sample note",
+      "body": "This is the body of my note",
+      "id": 2
+    },
+    {
+      "title": "Sample note",
+      "body": "This is the body of my note",
+      "id": 3
+    },
+    {
+      "title": "Jo's",
+      "id": 4
+    },
+    {
+      "title": "Whole Foods",
+      "id": 5
+    },
+    {
+      "title": "Whole Foods",
+      "id": 6
+    },
+    {
+      "title": "Whole Foods",
+      "id": 7
+    },
+    {
+      "title": "Target",
+      "id": 8
+    },
+    {
+      "title": "Target",
+      "id": 9
+    },
+    {
+      "title": "Trader Joe;s",
+      "id": 10
+    },
+    {
+      "title": "Sprouts",
+      "id": 11
+    },
+    {
+      "title": "Santa Tell Me",
+      "id": 12
+    },
+    {
+      "title": "Merry Listmas",
+      "id": 13
+    },
+    {
+      "title": "StockX",
+      "id": 14
+    },
+    {
+      "title": "Publix",
+      "id": 15
+    },
+    {
+      "title": "Store",
+      "items": [],
+      "updatedAt": "2024-01-04T18:54:29.464Z",
+      "id": 16
+    },
+    {
+      "title": "Tester Store",
+      "items": [],
+      "updatedAt": "2024-01-04T19:04:36.387Z",
+      "id": 17
+    }
+  ]
+}
